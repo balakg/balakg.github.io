@@ -27,12 +27,3 @@ Welcome! I am currently a research scientist at Amazon AWS.
         </div>
     </div>
 </div>
-
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/balakg">GitHub</a></li>
-      </ul>
-  </div>
-</div>
