@@ -9,7 +9,6 @@ Welcome! I am currently a research scientist at Amazon AWS.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
-
 ---
 
 
@@ -18,8 +17,7 @@ Welcome! I am currently a research scientist at Amazon AWS.
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Email: balakg@mit.edu, balakg@rice.edu<br/>
         </div>
 
         <div class="span2">
@@ -34,8 +32,7 @@ Welcome! I am currently a research scientist at Amazon AWS.
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/balakg">GitHub</a></li>
       </ul>
   </div>
 </div>
