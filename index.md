@@ -22,6 +22,8 @@ title: Guha Balakrishnan
 
 ___
 
-Welcome! I am currently a research scientist at Amazon AWS, and will join Rice University in July 2021 as an Assistant Professor.
+Welcome! I am currently a research scientist at Amazon Web Services (AWS), and will join Rice University as an assistant professor in July 2021. 
 
-I completed my Masters and PhD degrees at MIT.
+I completed my PhD in CSAIL at MIT in 2018, advised by John Guttag and Frédo Durand. I was also a postdoctoral researcher in Bill Freeman’s group at MIT from 2018-2020.
+
+I have a broad range of research interests in the fields of computer vision and graphics. I am particularly interested nowadays in generative image models, mid-level vision and perception, algorithmic bias/fairness, and healthcare applications.
