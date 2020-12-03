@@ -29,15 +29,16 @@ Welcome! I am currently a research scientist at Amazon Web Services (AWS). I wil
 
 I have a broad range of research interests in computer vision and graphics. I am particularly interested nowadays in generative image models and their applications, mid-level vision/perception, algorithmic fairness, and medical applications.
 
-I received my PhD (2018) and Masters (2013) degrees from the EECS department at MIT under the supervision of John Guttag and Frédo Durand. I was also a postdoctoral researcher in Bill Freeman’s group at MIT from 2018-2020.
+I received my PhD (2018) and Masters (2013) degrees from the EECS department at MIT under the supervision of John Guttag and Frédo Durand. I was also a postdoctoral researcher in Bill Freeman’s group at MIT from 2018-2020. Prior to all of this, I received my undergraduate degrees in Computer Science and Computer Engineering from the University of Michigan, Ann Arbor.
 
 ---
 
 <h4><a name="prospective students"></a>prospective students</h4>
 
-I am currently looking for PhD students and postdoctoral restarting Fall 2021. To join the PhD program in Electrical and Computer Engineering, please visit https://ece.rice.edu/. The application deadline for Fall 2021 is December 31st. If you are interested in working with me please mention my name in your application.
+I am currently looking for PhD students starting Fall 2021. To join the PhD program in Electrical and Computer Engineering, please visit https://ece.rice.edu/. The application deadline for Fall 2021 is December 31st. If you are interested in joining my group please mention my name in your application.
 
 ---
+<br/>
 
 <a href="../assets/logo.png">
        <img src="../assets/logo.png"
