@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Other info
-description: other info
+title: Selected Publications
+description: Guha's publications
 ---
+
 
 Coming soon.
 
