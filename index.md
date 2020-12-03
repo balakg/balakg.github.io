@@ -6,9 +6,9 @@ title: Guha Balakrishnan
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+        <a href="../assets/headshot.png">
+            <img src="../assets/headshot.png"
+                  title="Guha" alt="Guha"/></a>
         </div>
 
         <div class="span5">
