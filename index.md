@@ -27,6 +27,6 @@ ___
 
 Welcome! I am currently a research scientist at Amazon Web Services (AWS). I will join the Electrical and Computer Engineering Department at Rice University as an assistant professor in July 2021. 
 
-I completed my PhD in CSAIL at MIT in 2018, advised by John Guttag and Frédo Durand. I was also a postdoctoral researcher in Bill Freeman’s group at MIT from 2018-2020.
+I have a broad range of research interests in computer vision and graphics. I am particularly interested nowadays in generative image models and their applications, mid-level vision/perception, algorithmic fairness, and medical applications.
 
-I have a broad range of research interests in the fields of computer vision and graphics. I am particularly interested nowadays in generative image models, mid-level vision and perception, algorithmic bias/fairness, and healthcare applications.
+I received my PhD (2018) and Masters (2013) degrees from the EECS department at MIT under the supervision of John Guttag and Frédo Durand. I was also a postdoctoral researcher in Bill Freeman’s group at MIT from 2018-2020.
