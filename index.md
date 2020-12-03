@@ -35,4 +35,11 @@ I received my PhD (2018) and Masters (2013) degrees from the EECS department at 
 
 <h4><a name="prospective students"></a>prospective students</h4>
 
-I am currently looking for PhD students starting Fall 2021. To join the PhD program in Electrical and Computer Engineering, please visit https://ece.rice.edu/. The application deadline for Fall 2021 is December 31st. If you are interested in working with me please mention my name in your application.
+I am currently looking for PhD students and postdoctoral restarting Fall 2021. To join the PhD program in Electrical and Computer Engineering, please visit https://ece.rice.edu/. The application deadline for Fall 2021 is December 31st. If you are interested in working with me please mention my name in your application.
+
+
+<div class="span2">
+   <a href="../assets/logo.png">
+       <img src="../assets/logo.png"
+                  title="Rice" alt="Rice"/></a>
+</div>
