@@ -12,7 +12,7 @@ title: Guha Balakrishnan
         </div>
 
         <div class="span5">
-            Research scientist, Amazon Web Services (AWS) <br/>
+            Applied Research Scientist, Amazon Web Services (AWS) <br/>
             Assistant Professor, Rice University (starting July 2021) <br/> <br/>
             Email: balakg@rice.edu<br/>
             <a href="https://scholar.google.com/citations?user=CsEOFL8AAAAJ&hl=en"> Google scholar profile</a>
@@ -23,7 +23,7 @@ title: Guha Balakrishnan
 
 ___
 
-<h4><a name="about"></a>about</h4>
+<h4><a name="about"></a>about me</h4>
 
 Welcome! I am currently a research scientist at Amazon Web Services (AWS). I will join the Electrical and Computer Engineering Department at Rice University as an assistant professor in July 2021. 
 
