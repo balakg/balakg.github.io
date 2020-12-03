@@ -25,7 +25,7 @@ ___
 
 <h4><a name="about"></a>about me</h4>
 
-Welcome! I am currently a research scientist at Amazon Web Services (AWS). I will join the Electrical and Computer Engineering Department at Rice University as an assistant professor in July 2021. 
+Welcome! I am currently a research scientist at Amazon Web Services (AWS). I will join the <a href="https://eceweb.rice.edu/">Electrical and Computer Engineering Department</a> at Rice University as an assistant professor in July 2021. 
 
 I have a broad range of research interests in computer vision and graphics. I am particularly interested nowadays in generative image models and their applications, mid-level vision/perception, algorithmic fairness, and medical applications.
 
@@ -42,7 +42,7 @@ If you have already been admitted to a PhD program and would like to collaborate
 ---
 <br/>
 
-<a href="../assets/logo.png">
+<a href="https://eceweb.rice.edu/">
        <img src="../assets/logo.png"
                   title="Rice" alt="Rice"/></a>
 
