@@ -37,6 +37,8 @@ I received my PhD (2018) and Masters (2013) degrees from the EECS department at 
 
 I am currently looking for PhD students starting Fall 2021. To join Rice's PhD program in Electrical and Computer Engineering, please visit https://ece.rice.edu/. The application deadline for Fall 2021 is December 31st. If you are interested in joining my group please mention my name in your application.
 
+If you have already been admitted to a PhD program and would like to collaborate, feel free to send me an email to discuss potential research directions.
+
 ---
 <br/>
 
