@@ -23,6 +23,8 @@ title: Guha Balakrishnan
 
 ___
 
+<h4><a name="about"></a>about</h4>
+
 Welcome! I am currently a research scientist at Amazon Web Services (AWS). I will join the Electrical and Computer Engineering Department at Rice University as an assistant professor in July 2021. 
 
 I completed my PhD in CSAIL at MIT in 2018, advised by John Guttag and Frédo Durand. I was also a postdoctoral researcher in Bill Freeman’s group at MIT from 2018-2020.
