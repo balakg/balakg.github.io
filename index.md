@@ -5,15 +5,14 @@ title: Guha Balakrishnan
 
 <div class="container">
     <div class="row-fluid">
-        <div class="span2">
+        <div class="span3">
         <a href="../assets/headshot.jpeg">
             <img src="../assets/headshot.jpeg"
                   title="Guha" alt="Guha"
-                  style="width:500px;height:500px;"
             /></a>
         </div>
 
-        <div class="span5">
+        <div class="span4">
             Applied Research Scientist, Amazon Web Services (AWS) <br/>
             Assistant Professor, Rice University (starting July 2021) <br/> <br/>
             Email: balakg@rice.edu<br/>
