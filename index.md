@@ -14,7 +14,10 @@ title: Guha Balakrishnan
         </div>
 
         <div class="span5">
+            Research scientist at Amazon Web Services (AWS) <br/>
+            Assistant Professor at Rice University (starting July 2021) <br/>
             Email: balakg@mit.edu, balakg@rice.edu<br/>
+            <a href="https://scholar.google.com/citations?user=CsEOFL8AAAAJ&hl=en"> Google scholar profile</a>
         </div>
 
     </div>
