@@ -13,8 +13,8 @@ title: Guha Balakrishnan
 
         <div class="span5">
             Research scientist, Amazon Web Services (AWS) <br/>
-            Assistant Professor, Electrical and Computer Engineering department at Rice University (starting July 2021) <br/> <br/>
-            Email: balakg [at] rice [dot] edu<br/>
+            Assistant Professor, Rice University (starting July 2021) <br/> <br/>
+            Email: balakg@rice.edu<br/>
             <a href="https://scholar.google.com/citations?user=CsEOFL8AAAAJ&hl=en"> Google scholar profile</a>
         </div>
 
@@ -23,7 +23,7 @@ title: Guha Balakrishnan
 
 ___
 
-Welcome! I am currently a research scientist at Amazon Web Services (AWS), and will join Rice University as an assistant professor in July 2021. 
+Welcome! I am currently a research scientist at Amazon Web Services (AWS). I will join the Electrical and Computer Engineering Department at Rice University as an assistant professor in July 2021. 
 
 I completed my PhD in CSAIL at MIT in 2018, advised by John Guttag and Frédo Durand. I was also a postdoctoral researcher in Bill Freeman’s group at MIT from 2018-2020.
 

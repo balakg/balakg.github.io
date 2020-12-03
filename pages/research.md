@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Research
-description: Blue Ham's research
+title: Selected Publications
+description: Guha's publications
 ---
-
 
 
 #### <u>The effects of increased eye contact on feeding portions</u>
@@ -11,8 +10,6 @@ description: Blue Ham's research
 
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
 
-
-<!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
 To increase the size of the title, use fewer # in front of the paper title.
