@@ -45,3 +45,7 @@ If you have already been admitted to a PhD program and would like to collaborate
 <a href="../assets/logo.png">
        <img src="../assets/logo.png"
                   title="Rice" alt="Rice"/></a>
+
+---
+
+<small> This website design is heavily based on the website from Karl Broman. Thanks Karl Broman! </small>
