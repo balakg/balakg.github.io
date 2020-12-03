@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Selected Publications
+title: Publications
 description: Guha's publications
 ---
-
 
 Coming soon.
 

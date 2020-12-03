@@ -29,7 +29,7 @@ Welcome! I am currently a research scientist at Amazon Web Services (AWS). I wil
 
 I have a broad range of research interests in computer vision and graphics. I am particularly interested nowadays in generative image models and their applications, mid-level vision/perception, algorithmic fairness, and medical applications.
 
-I received my PhD (2018) and Masters (2013) degrees from the EECS department at MIT under the supervision of <a href="https://ddig.csail.mit.edu/">John Guttag</a> and <a href="http://people.csail.mit.edu/fredo/">Frédo Durand</a>. I was also a postdoctoral researcher in <a href="https://billf.mit.edu/">Bill Freeman</a>’s group at MIT from 2018-2020. I received my undergraduate degrees in Computer Science and Computer Engineering from the University of Michigan, Ann Arbor in 2011.
+I received my PhD (2018) and Master's (2013) degrees from the EECS department at MIT under the supervision of <a href="https://ddig.csail.mit.edu/">John Guttag</a> and <a href="http://people.csail.mit.edu/fredo/">Frédo Durand</a>. I was also a postdoctoral researcher in <a href="https://billf.mit.edu/">Bill Freeman</a>’s group at MIT from 2018-2020. I received my undergraduate degrees in Computer Science and Computer Engineering from the University of Michigan, Ann Arbor in 2011.
 
 ---
 
