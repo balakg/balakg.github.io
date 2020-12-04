@@ -50,10 +50,6 @@ If you have already been admitted to a PhD program and would like to collaborate
                   title="Rice" alt="Rice"/></a>
         </div>
 
-
-
-        </div>
-
     </div>
 </div>
 
