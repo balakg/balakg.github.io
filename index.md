@@ -50,13 +50,11 @@ If you have already been admitted to a PhD program and would like to collaborate
                   title="Rice" alt="Rice"/></a>
         </div>
 
-        <div class="span4">
 
-    This website design is heavily based on <a href="https://kbroman.org/"> Karl Broman</a>'s website. Thanks Karl Broman!
 
         </div>
 
     </div>
 </div>
 
-___
+<small> This site's design borrows heavily from <a href="https://kbroman.org/"> Karl Broman</a>'s layout. Thanks Karl! </small>
