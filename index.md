@@ -41,11 +41,22 @@ I am currently looking for PhD students interested in computer vision to join my
 If you have already been admitted to a PhD program and would like to collaborate, feel free to send me an email to discuss potential research directions.
 
 ---
-<br/>
+<div class="container">
+    <div class="row-fluid">
 
-<div class="span3">
-<a href="https://eceweb.rice.edu/">
-       <img src="../assets/logo.png"
+        <div class="span3">
+        <a href="https://eceweb.rice.edu/">
+        <img src="../assets/logo.png"
                   title="Rice" alt="Rice"/></a>
+        </div>
+
+        <div class="span4">
+
+    This website design is heavily based on <a href="https://kbroman.org/"> Karl Broman</a>'s website. Thanks Karl Broman!
+
+        </div>
+
+    </div>
 </div>
-<small> This website design is heavily based on <a href="https://kbroman.org/"> Karl Broman</a>'s website. Thanks Karl Broman! </small>
+
+___
