@@ -43,8 +43,9 @@ If you have already been admitted to a PhD program and would like to collaborate
 ---
 <br/>
 
+<div class="span3">
 <a href="https://eceweb.rice.edu/">
        <img src="../assets/logo.png"
                   title="Rice" alt="Rice"/></a>
-
+</div>
 <small> This website design is heavily based on <a href="https://kbroman.org/"> Karl Broman</a>'s website. Thanks Karl Broman! </small>
