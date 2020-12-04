@@ -15,7 +15,7 @@ title: Guha Balakrishnan
         <div class="span4">
             Applied Research Scientist, Amazon Web Services (AWS) <br/>
             Assistant Professor, Rice University (starting July 2021) <br/> <br/>
-            Email: balakg@rice.edu<br/>
+            Email: guha@rice.edu<br/>
             <a href="https://scholar.google.com/citations?user=CsEOFL8AAAAJ&hl=en"> Google scholar profile</a>
         </div>
 
