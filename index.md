@@ -44,16 +44,15 @@ If you have already been admitted to a PhD program and would like to collaborate
 <div class="container">
     <div class="row-fluid">
 
-        <div class="span3">
+        <div class="span4">
         <a href="https://eceweb.rice.edu/">
         <img src="../assets/logo.png"
                   title="Rice" alt="Rice"/></a>
         </div>
 
         <div class="span4">
-            <small> This site's design borrows heavily from <a href="https://kbroman.org/"> Karl Broman</a>'s layout. Thanks Karl! </small>
+            <small> I borrowed heavily from <a href="https://kbroman.org/"> Karl Broman</a>'s website layout. Thanks Karl! </small>
         </div>
  
     </div>
 </div>
-
