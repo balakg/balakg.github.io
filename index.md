@@ -8,7 +8,7 @@ title: Guha Balakrishnan
         <div class="span3">
         <a href="../assets/headshot.jpeg">
             <img src="../assets/headshot.jpeg"
-                  title="Guha" alt="Guha" style="width: 300px; height: 300px;"
+                  title="Guha" alt="Guha"
             /></a>
         </div>
 
