@@ -22,14 +22,10 @@ description: Guha's publications
 </div>
 -->
 
-.fixed{
-    width: 200px
-}
-
 <div class="container">
     <div class="row">
 
-        <div class="span4">
+        <div class="fixed">
         <a href="../assets/paper-figs/face-bias_teaser.png">
             <img src="../assets/paper-figs/face-bias_teaser.png" style="max-width:200px;"
                   title="causal benchmarking" alt="causal benchmarking"
