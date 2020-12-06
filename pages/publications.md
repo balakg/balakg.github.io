@@ -26,7 +26,7 @@ description: Guha's publications
     <div class="row-fluid">
         <div class="span4">
         <a href="../assets/paper-figs/face-bias_teaser.png">
-            <img src="../assets/paper-figs/face-bias_teaser.png"
+            <img src="../assets/paper-figs/face-bias_teaser.png" style="max-width:200px;"
                   title="causal benchmarking" alt="causal benchmarking"
             /></a>
         </div>
