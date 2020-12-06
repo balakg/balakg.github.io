@@ -9,7 +9,7 @@
 .navbar .nav {
   float: right; }
 
-.fixed{
+/*.fixed{
     width: 200px
 }
 
@@ -19,7 +19,7 @@
 }
 .middle {
   flex:1 1 300px;
-}
+}*/
 
 /* posts index */
 .post > h3.title {
