@@ -25,14 +25,14 @@ description: Guha's publications
 <div class="container">
     <div class="row">
 
-        <div class="fixed">
+        <div class="left">
         <a href="../assets/paper-figs/face-bias_teaser.png">
             <img src="../assets/paper-figs/face-bias_teaser.png" style="max-width:200px;"
                   title="causal benchmarking" alt="causal benchmarking"
             /></a>
         </div>
 
-        <div class="col">
+        <div class="middle">
             <b>Towards causal benchmarking of bias in face analysis algorithms. </b> <br>
             G. Balakrishnan, Y. Xiong, W. Xia, P. Perona. <br>
             ECCV 2020 <br>

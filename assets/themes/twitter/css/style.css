@@ -9,6 +9,18 @@
 .navbar .nav {
   float: right; }
 
+.fixed{
+    width: 200px
+}
+
+.left, .right {
+  flex: 0 2 150px;
+  background-color: #C28282;
+}
+.middle {
+  flex:1 1 300px;
+}
+
 /* posts index */
 .post > h3.title {
   position: relative;
