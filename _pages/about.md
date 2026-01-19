@@ -33,9 +33,6 @@ I am an Assistant Professor in the <a href="https://eceweb.rice.edu/">Electrical
 **Before Rice**  
 
 2020 - 2021 : Applied Scientist @ AWS 
-
 2018 - 2020 : Postdoc @ MIT CSAIL with Bill Freeman
-
 2011 - 2018 : MS & PhD @ MIT CSAIL with John Guttag and Frédo Durand
-
 2007 - 2011 : B.S. in Computer Science, B.S. in Computer Engineering @ University of Michigan
