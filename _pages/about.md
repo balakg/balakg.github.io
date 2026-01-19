@@ -9,7 +9,7 @@ profile:
   image: headshot.JPG
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>10-20L BRC</p>
+    <p>10-20L Bioscience Research Collaborative (BRC)</p>
     <p>6500 Main St.</p>
     <p>Houston, TX 77030</p>
     <p>guha@rice.edu</p>
