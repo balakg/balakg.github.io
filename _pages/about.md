@@ -9,10 +9,9 @@ profile:
   image: headshot.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>10-20L BRC</p>
-    <p>6500 Main St.</p>
-    <p>Houston, TX 77030</p>
-    <p>guha@rice.edu</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
