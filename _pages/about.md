@@ -9,7 +9,7 @@ profile:
   image: headshot.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>10-20L BRC</b></p>
+    <p>10-20L BRC<br></p>
     <p>6500 Main St.</p>
     <p>Houston, TX 77030</p>
     <p>guha@rice.edu</p>
@@ -35,4 +35,4 @@ I am an Assistant Professor in the <a href="https://eceweb.rice.edu/">Electrical
 <p>2020 - 2021 : Applied Scientist @ AWS<br>
 2018 - 2020 : Postdoc @ MIT CSAIL with Bill Freeman<br>
 2011 - 2018 : MS & PhD @ MIT CSAIL with John Guttag and Frédo Durand<br>
-2007 - 2011 : B.S. in Computer Science, B.S. in Computer Engineering @ University of Michigan</p>
+2007 - 2011 : B.S. in Comp. Science, B.S. in Comp. Engineering @ Univ. of Michigan</p>
