@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Assistant Professor
+title:
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Assistant Professor, Electrical & Computer Enginering, Rice Universitys</a>
 
 profile:
   align: right
@@ -22,20 +22,19 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 I am an Assistant Professor in the Electrical and Computer Engineering (ECE) department at Rice University. I focus on developing scalable and reliable computer vision methods, and apply much of my work to scientific domains such as medical and geospatial imaging. I am also part of the Rice Digital Health Initiative and Houston Methodist-Rice Digital Health Institute.
 
-Before Rice ...
-[2020 - 2021] : Applied Scientist @ AWS 
+Before Rice  
+
+[2020-2021] : Applied Scientist @ AWS 
 
 [2018 - 2020] : Postdoc @ MIT CSAIL with Bill Freeman
 
 [2011 - 2018] : MS & PhD @ MIT CSAIL with John Guttag and Frédo Durand
 
 [2007 - 2011] : B.S. in Computer Science, B.S. in Computer Engineering @ University of Michigan
-
-#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
