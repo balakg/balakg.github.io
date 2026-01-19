@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor in the <a href="https://eceweb.rice.edu/">Electrical and Computer Engineering (ECE)</a> department at Rice University. I focus on developing scalable and reliable computer vision methods, and apply much of my work to scientific domains such as medical and geospatial imaging. I am also part of the <a href="https://dhi.rice.edu/">Rice Digital Health Initiative</a> and <a href="https://www.hmrdhi.org/">Houston Methodist-Rice Digital Health Institute</a>.
+I am an Assistant Professor in the <a href="https://eceweb.rice.edu/">Electrical and Computer Engineering (ECE)</a> department at Rice University. I work in computer vision, and am particularly interested in developing scalable learning representations for complex signals and algorithmic "guardrails" for AI models. I apply much of my work to scientific domains such as medical and geospatial imaging. I am also part of the <a href="https://dhi.rice.edu/">Rice Digital Health Initiative</a> and <a href="https://www.hmrdhi.org/">Houston Methodist-Rice Digital Health Institute</a>.
 
 **Before Rice:**  
 
