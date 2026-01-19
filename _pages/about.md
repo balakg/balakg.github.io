@@ -30,7 +30,7 @@ latest_posts:
 
 I am an Assistant Professor in the <a href="https://eceweb.rice.edu/">Electrical and Computer Engineering (ECE)</a> department at Rice University. I focus on developing scalable and reliable computer vision methods, and apply much of my work to scientific domains such as medical and geospatial imaging. I am also part of the <a href="https://dhi.rice.edu/">Rice Digital Health Initiative</a> and <a href="https://www.hmrdhi.org/">Houston Methodist-Rice Digital Health Institute</a>.
 
-**Before Rice**  
+**Before Rice:**  
 
 <p>2020 - 2021 : Applied Scientist @ AWS<br>
 2018 - 2020 : Postdoc @ MIT CSAIL with Bill Freeman<br>
