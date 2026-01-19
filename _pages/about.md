@@ -2,7 +2,7 @@
 layout: about
 title:
 permalink: /
-subtitle: <a href='#'>Assistant Professor, Electrical & Computer Enginering, Rice Universitys</a>
+subtitle: Assistant Professor, Electrical & Computer Enginering, Rice University
 
 profile:
   align: right
