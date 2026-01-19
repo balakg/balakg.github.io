@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Guha Balakrishnan's Academic Page
+title: about
 permalink: /
 subtitle: 
 
