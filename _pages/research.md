@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Main research pillars of my group.
+description: Broad research thrusts of my group.
 nav: true
 nav_order: 2
 display_categories:
