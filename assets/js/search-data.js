@@ -431,6 +431,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-medical-imaging-amp-healthcare",
+          title: 'Medical Imaging &amp;amp; Healthcare',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "teachings-intro-vision",
           title: 'Intro Vision',
           description: "",
