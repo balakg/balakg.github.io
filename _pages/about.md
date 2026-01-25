@@ -30,9 +30,4 @@ latest_posts:
 
 I am an Assistant Professor in the <a href="https://eceweb.rice.edu/">Electrical and Computer Engineering (ECE)</a> department at Rice University. My group advances the efficiency and reliability of learning algorithms for signal representation and generation, particularly for real-world applications such as medical imaging, environment monitoring, and 3D scene reconstruction. I am also part of the <a href="https://dhi.rice.edu/">Rice Digital Health Initiative</a> and <a href="https://www.hmrdhi.org/">Houston Methodist-Rice Digital Health Institute</a>.
 
-**Before Rice:**  
-
-<p>2020 - 2021 : Applied Scientist @ AWS<br>
-2018 - 2020 : Postdoc @ MIT CSAIL with Bill Freeman<br>
-2011 - 2018 : MS & PhD @ MIT CSAIL with John Guttag and Frédo Durand<br>
-2007 - 2011 : B.S. in Comp. Science, B.S. in Comp. Engineering @ Univ. of Michigan</p>
+I completed my PhD at MIT CSAIL advised by John Guttag and Frédo Durand, and my postdoctoral research under Bill Freeman. I completed my B.S. degrees in Computer Science and Computer Engineering at the University of Michigan, Ann Arbor.
