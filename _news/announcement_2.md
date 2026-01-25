@@ -1,6 +1,5 @@
 ---
 layout: post
-title: WassDiff
 date: Sep. 2025
 inline: false
 related_posts: false
