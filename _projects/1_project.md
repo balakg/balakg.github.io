@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Efficient Signal & Scene Representations
-description:
+description: TEST
 img: assets/img/12.jpg
 importance: 1
 category: work
