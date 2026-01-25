@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented our paper <i>Not all Views are Created Equal: Analyzing Viewpoint Instabilities in Vision Foundation Models</i> at ICCV 2025. An interesting analysis on how vision foundation models yield unstable inferences given certain object viewpoints.
+Presented our paper <i>Not all Views are Created Equal: Analyzing Viewpoint Instabilities in Vision Foundation Models</i> at ICCV 2025. An interesting analysis on how vision foundation models yield unstable inferences as a function of camera viewpoint.
