@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-metaseg-just-won-the-best-paper-award-at-miccai-we-offer-a-completely-new-way-to-perform-medical-image-segmentation-using-inrs-with-90-fewer-parameters-than-standard-models",
-          title: 'MetaSeg just won the Best Paper Award at MICCAI! We offer a completely...',
+            },},{id: "news-our-paper-fit-pixels-get-labels-meta-learned-implicit-networks-for-image-segmentation-just-won-the-best-paper-award-at-miccai-we-offer-a-completely-new-way-to-perform-medical-image-segmentation-using-90-fewer-parameters-than-standard-models",
+          title: 'Our paper Fit Pixels Get Labels: Meta-learned Implicit Networks for Image Segmentation just...',
           description: "",
           section: "News",},{id: "news-our-method-wassdiff-a-state-of-the-art-generative-model-for-precipitation-downscaling-was-accepted-at-ieee-transactions-on-geoscience-and-remote-sensing",
           title: 'Our method WassDiff – a state-of-the-art generative model for precipitation downscaling – was...',
