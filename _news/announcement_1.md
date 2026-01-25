@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: Oct. 2025
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+MetaSeg just won the Best Paper Award at MICCAI! We offer a completely new way to perform medical image segmentation using INRs with 90% fewer parameters than standard models. 
