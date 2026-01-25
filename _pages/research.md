@@ -6,7 +6,7 @@ description: Broad research thrusts of my group.
 nav: true
 nav_order: 2
 display_categories:
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -55,7 +55,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-2">
+  <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
