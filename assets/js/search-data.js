@@ -423,7 +423,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-reliable-ai",
           title: 'Reliable AI',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-environment-modeling",
