@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Efficient Signal & Scene Representations
+title: Efficient Signal Representations
 description: 
 img: assets/img/12.jpg
 importance: 1
