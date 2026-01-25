@@ -408,12 +408,10 @@ ninja.data = [{
             },},{id: "news-metaseg-just-won-the-best-paper-award-at-miccai-we-offer-a-completely-new-way-to-perform-medical-image-segmentation-using-inrs-with-90-fewer-parameters-than-standard-models",
           title: 'MetaSeg just won the Best Paper Award at MICCAI! We offer a completely...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-our-method-wassdiff-amp-lt-i-amp-gt-a-state-of-the-art-generative-model-for-precipitation-downscaling-was-accepted-at-ieee-transactions-on-geoscience-and-remote-sensing",
+          title: 'Our method WassDiff&amp;amp;lt;\i&amp;amp;gt; – a state-of-the-art generative model for precipitation downscaling – was...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-presented-our-paper-not-all-views-are-created-equal-analyzing-viewpoint-instabilities-in-vision-foundation-models-at-iccv-2025-an-interesting-analysis-on-how-vision-foundation-models-yield-unstable-inferences-given-certain-object-viewpoints",
+          section: "News",},{id: "news-presented-our-paper-not-all-views-are-created-equal-analyzing-viewpoint-instabilities-in-vision-foundation-models-at-iccv-2025-an-interesting-analysis-on-how-vision-foundation-models-yield-unstable-inferences-given-certain-object-viewpoints",
           title: 'Presented our paper Not all Views are Created Equal: Analyzing Viewpoint Instabilities in...',
           description: "",
           section: "News",},{id: "projects-efficient-signal-representations",
