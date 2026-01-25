@@ -431,11 +431,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "teachings-introvision",
-          title: 'Introvision',
+            },},{id: "teachings-intro-vision",
+          title: 'Intro Vision',
           description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introvision/";
+              window.location.href = "/teachings/intro-vision/";
             },},{id: "teachings-neural-synthesis",
           title: 'Neural Synthesis',
           description: "",
