@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Broad research thrusts of my group.
+description: My group's main research thrusts. Many projects are associated with multiple thrusts.
 nav: true
 nav_order: 2
 display_categories:
