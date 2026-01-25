@@ -5,7 +5,7 @@ permalink: /research/
 description: Main research pillars of my group.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories:
 horizontal: false
 ---
 
