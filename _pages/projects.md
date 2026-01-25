@@ -1,10 +1,10 @@
 ---
 layout: page
-title: research
-permalink: /research/
-description: My current research directions.
+title: projects
+permalink: /projects/
+description: A growing collection of your cool projects.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
