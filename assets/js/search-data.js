@@ -411,7 +411,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-method-wassdiff-a-state-of-the-art-generative-model-for-precipitation-downscaling-was-accepted-at-ieee-transactions-on-geoscience-and-remote-sensing",
           title: 'Our method WassDiff – a state-of-the-art generative model for precipitation downscaling – was...',
           description: "",
-          section: "News",},{id: "news-presented-our-paper-not-all-views-are-created-equal-analyzing-viewpoint-instabilities-in-vision-foundation-models-at-iccv-2025-an-interesting-analysis-on-how-vision-foundation-models-yield-unstable-inferences-given-certain-object-viewpoints",
+          section: "News",},{id: "news-presented-our-paper-not-all-views-are-created-equal-analyzing-viewpoint-instabilities-in-vision-foundation-models-at-iccv-2025-an-interesting-analysis-on-how-vision-foundation-models-yield-unstable-inferences-as-a-function-of-camera-viewpoint",
           title: 'Presented our paper Not all Views are Created Equal: Analyzing Viewpoint Instabilities in...',
           description: "",
           section: "News",},{id: "projects-efficient-signal-representations",
