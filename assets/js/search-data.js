@@ -405,16 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-metaseg-just-won-the-best-paper-award-at-miccai-we-offer-a-completely-new-way-to-perform-medical-image-segmentation-using-inrs-with-90-fewer-parameters-than-standard-models",
+          title: 'MetaSeg just won the Best Paper Award at MICCAI! We offer a completely...',
           description: "",
           section: "News",},{id: "projects-efficient-signal-representations",
           title: 'Efficient Signal Representations',
