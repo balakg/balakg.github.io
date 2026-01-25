@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: Oct 2025
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Presented our paper <i>Not all Views are Created Equal: Analyzing Viewpoint Instabilities in Vision Foundation Models</i> at ICCV 2025. An interesting analysis on how vision foundation models yield unstable inferences given certain object viewpoints.
