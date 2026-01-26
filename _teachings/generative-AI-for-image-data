@@ -4,3 +4,5 @@ title: Generative AI for Image Data
 description: Graduate class covering advances in neural network algorithms for generating images. Topics broadly fall into two categories: generative models (e.g., VAEs, GANs, Diffusion Models), and neural rendering (e.g., NeRF, Gaussian Splatting).
 term: Fall
 course_id: ELEC/COMP 542
+redirect: https://neuralsynthesis.rice.edu/
+
