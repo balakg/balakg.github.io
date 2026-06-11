@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: people
-description: Members of the Balakrishnan Research Group at Rice University.
+description: Members of my research group.
 nav: true
 nav_order: 7
 ---
