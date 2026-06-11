@@ -22,6 +22,6 @@ latest_posts:
   enabled: false
 ---
 
-**My group advances the efficiency and reliability of learning representations for visual and scientific signals, with applications in medical imaging, environmental sensing, and 3D scene reconstruction.**
+**My group works on two main threads: efficient representation of visual and scientific signals, and methods to probe and quantify the reliability of vision algorithms. We often apply this work to the domains of medical imaging, environmental science, and 3D scene reconstruction.**
 
 I completed my PhD at [MIT CSAIL](https://www.csail.mit.edu/) advised by [John Guttag](http://people.csail.mit.edu/guttag/) and [Frédo Durand](http://people.csail.mit.edu/fredo/), followed by postdoctoral research with [Bill Freeman](https://billf.mit.edu/). I received B.S. degrees in Computer Science and Computer Engineering from the [University of Michigan, Ann Arbor](https://umich.edu/). I am also a member of the [Rice Digital Health Initiative](https://digitalhealth.rice.edu/) and the [Houston Methodist–Rice Digital Health Institute](https://www.houstonmethodist.org/research/).
