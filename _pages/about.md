@@ -22,6 +22,6 @@ latest_posts:
   enabled: false
 ---
 
-My group works on two main research threads: **efficient representation of visual and scientific signals**, and **bias and uncertainty quantification for vision algorithms**. We often apply our methods to the domains of medical imaging, environmental science, and 3D scene reconstruction.
+My group works on three main research themes in computer vision: **neural signal representations**, **trustworthy AI**, and **scene reconstruction**, with applications in medical imaging, environmental science, and beyond.
 
 I completed my PhD at [MIT CSAIL](https://www.csail.mit.edu/) advised by [John Guttag](http://people.csail.mit.edu/guttag/) and [Frédo Durand](http://people.csail.mit.edu/fredo/), followed by postdoctoral research with [Bill Freeman](https://billf.mit.edu/). I received dual B.S. degrees in Computer Science and Computer Engineering from the [University of Michigan](https://umich.edu/).

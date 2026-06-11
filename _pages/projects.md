@@ -13,7 +13,7 @@ Current research themes of my group:
 
 ### <i class="fa-solid fa-wave-square" style="color: #4A90D9;"></i> Neural Signal Representations
 
-Scalable and transferable neural representations for complex signals and images, with a focus on implicit/coordinate-based (INR) methods, applied to natural, medical, and scientific domains.
+Scalable and transferable neural representations for complex signals, with a focus on implicit/coordinate-based (INR) methods, applied to natural, medical, and scientific imaging domains.
 
 **Selected papers:** WIRE ([CVPR 2023](https://vishwa91.github.io/wire)), MINER ([ECCV 2022](https://vishwa91.github.io/miner)), Transferable INRs ([NeurIPS 2024](https://kushalvyas.github.io/strainer.html)), Video INRs ([CVPR 2025](https://alpoler.github.io/actioner)), Noise Pretrained INRs ([CVPR 2026](https://kushalvyas.github.io/noisepretraining.html)), Fit Pixels, Get Labels ([MICCAI 2025](https://kushalvyas.github.io/metaseg.html)), ISLAND ([Remote Sensing Applications 2024](https://github.com/way-yuhao/island)), GeoViSTA ([2026](https://arxiv.org/abs/2605.14406))
 
@@ -31,4 +31,4 @@ Probing AI systems for bias, robustness, and reliability through network geometr
 
 3D reconstruction and novel-view synthesis of scenes, objects, and volumes from images and video, including human avatars, urban environments, and sparse-view medical imaging.
 
-**Selected papers:** CT Reconstruction ([MICCAI 2023](https://arxiv.org/abs/2308.02100)), DRAGON ([ICCP 2024](https://yujinh22.github.io/publication/dragon)), TranSplat ([2025](https://tonyyu0822.github.io/transplat/)), SplatShot ([2026](https://arxiv.org/abs/2606.01493)), Humanless Walkthroughs ([CVPR 2026](https://crowd-eraser.github.io)), GIQ ([ICLR 2026](https://toomanymatts.github.io/giq-benchmark/))
+**Selected papers:** CT Reconstruction ([MICCAI 2023](https://arxiv.org/abs/2308.02100)), Drone-and-Ground Splatting ([ICCP 2024](https://yujinh22.github.io/publications/dragon/)), TranSplat ([2025](https://tonyyu0822.github.io/transplat/)), Face Avatars ([2026](https://arxiv.org/abs/2606.01493), [2025](https://hliang2.github.io/FastAvatar/)), Humanless Walkthroughs ([CVPR 2026](https://crowd-eraser.github.io))
