@@ -13,7 +13,7 @@ Current research themes of my group:
 
 ### <i class="fa-solid fa-wave-square" style="color: #4A90D9;"></i> Neural Signal Representations
 
-Building practical implicit neural representations: scalable to large and complex signals, transferable across instances, and applicable to medical, geospatial, and video data.
+Scalable and transferable neural representations for complex signals and images, with a focus on implicit/coordinate-based (INR) methods, applied to medical, geospatial, and video domains.
 
 **Selected papers:** WIRE ([CVPR 2023](https://vishwa91.github.io/wire)), MINER ([ECCV 2022](https://vishwa91.github.io/miner)), Transferable INRs ([NeurIPS 2024](https://kushalvyas.github.io/strainer.html)), Video INRs ([CVPR 2025](https://alpoler.github.io/actioner)), Noise Pretrained INRs ([CVPR 2026](https://kushalvyas.github.io/noisepretraining.html)), Fit Pixels, Get Labels ([MICCAI 2025](https://kushalvyas.github.io/metaseg.html)), ISLAND ([Remote Sensing Applications 2024](https://github.com/way-yuhao/island)), GeoViSTA ([2026](https://arxiv.org/abs/2605.14406))
 
