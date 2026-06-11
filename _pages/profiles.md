@@ -13,12 +13,12 @@ nav_order: 7
 
 - **[Hao Liang](https://hliang2.github.io/)**
 - **[Krish Kabra](https://krishk97.github.io/)**
-- **[Kushal Vyas](https://kushalvyas.github.io/)**
-- **[Yuhao Liu](https://yuhaoliu.net/)**
+- **[Kushal Vyas](https://kushalvyas.github.io/)** (co-advised with [Ashok Veeraraghavan](https://computationalimaging.rice.edu/team/ashok-veeraraghavan/))
+- **[Yuhao Liu](https://yuhaoliu.net/)** (co-advised with [Ashok Veeraraghavan](https://computationalimaging.rice.edu/team/ashok-veeraraghavan/))
 - **[Yujin Ham](https://yujinh22.github.io/)**
 - **[Tony Yu](https://tonyyu0822.github.io/)**
 - **[Sophia Zorek](https://profiles.rice.edu/student/sophia-zorek)**
-- **[Matt Cheung](https://matthewyccheung.github.io/)**
+- **[Matt Cheung](https://matthewyccheung.github.io/)** (co-advised with [Ashok Veeraraghavan](https://computationalimaging.rice.edu/team/ashok-veeraraghavan/))
 - **[Vishesh Kumar](https://visheshrajput2408.github.io/vishesh.github.io/)** (visitor, [Mehta Rice Engineering Scholars Program](https://engineering.rice.edu/academics/mehta-rice-engineering-scholars-program))
 
 ### Postdoc
