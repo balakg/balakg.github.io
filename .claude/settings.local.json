@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.guhabalakrishnan.com)",
+      "WebSearch",
+      "Bash(python3 *)",
+      "Bash(xargs ls -la)",
+      "WebFetch(domain:kushalvyas.github.io)"
+    ]
+  }
+}

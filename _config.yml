@@ -83,7 +83,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -279,6 +279,16 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      search_exclude: true
+  - scope:
+      path: "_projects"
+      type: "projects"
+    values:
+      search_exclude: true
 
 sass:
   style: compressed
