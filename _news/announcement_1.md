@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-02-27 00:00:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Two papers accepted to **CVPR 2026**: [Noise Pretraining for INRs](https://kushalvyas.github.io/noisepretraining.html) (Vyas et al.) and [Humanless Environment Walkthroughs](https://crowd-eraser.github.io) (Ham et al.)

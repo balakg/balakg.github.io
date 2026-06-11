@@ -1,28 +1,32 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Members of the Balakrishnan Research Group at Rice University.
 nav: true
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+## PhD Students
+
+- **[Hao Liang](https://hliang2.github.io/)**
+- **[Krish Kabra](https://krishk97.github.io/)**
+- **[Kushal Vyas](https://kushalvyas.github.io/)**
+- **[Yuhao Liu](https://yuhaoliu.net/)**
+- **[Yujin Ham](https://yujinh22.github.io/)**
+- **[Tony Yu](https://tonyyu0822.github.io/)**
+- **[Sophia Zorek](https://profiles.rice.edu/student/sophia-zorek)**
+- **[Matt Cheung](https://matthewyccheung.github.io/)**
+
+## Postdoctoral Researchers
+
+- **[Mat Michalkiewicz](https://toomanymatts.github.io/)**
+
+## Alumni
+
+### Undergraduate Researchers
+
+- **[Caleb McKinney](https://calebmckinney.com/)** &rarr; Georgia Tech (PhD)
+- **[Kevin Ni](https://scholar.google.com/citations?user=b3v0hiQAAAAJ)** &rarr; UNC (PhD)
+- **Sheena Bai** &rarr; UCLA (MS)
+- **Yassin Hafid** &rarr; Founder, yAI
