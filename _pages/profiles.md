@@ -29,4 +29,4 @@ nav_order: 7
 - **[Caleb McKinney](https://calebmckinney.com/)** &rarr; Georgia Tech (PhD)
 - **[Kevin Ni](https://scholar.google.com/citations?user=b3v0hiQAAAAJ)** &rarr; UNC (PhD)
 - **Sheena Bai** &rarr; UCLA (MS)
-- **Yassin Hafid** &rarr; Founder, yAI
+- **Yassin Hafid** &rarr; Founder, [yAI](https://yaihq.com/about)
