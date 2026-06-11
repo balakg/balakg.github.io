@@ -21,7 +21,7 @@ Designing and learning neural representations for signals and images, with a foc
 
 ### <i class="fa-solid fa-stethoscope" style="color: #D95B5B;"></i> Medical Imaging
 
-AI models for clinical image analysis, e.g., deformable registration, probabilistic segmentation, and sparse-view CT reconstruction.
+AI models for clinical image analysis, e.g., registration, segmentation, sparse-view CT reconstruction, and uncertainty quantification.
 
 **Selected papers:** VoxelMorph ([TMI 2019](https://arxiv.org/abs/1809.05231), [CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Balakrishnan_An_Unsupervised_Learning_CVPR_2018_paper.html), [MedIA 2019](https://arxiv.org/abs/1903.03545)), Data Augmentation ([CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Data_Augmentation_Using_Learned_Transformations_for_One-Shot_Medical_Image_Segmentation_CVPR_2019_paper.html)), CT Reconstruction ([MICCAI 2023](https://arxiv.org/abs/2308.02100)), COMPASS ([ICLR 2026](https://openreview.net/forum?id=uBy4TCgGiT)), Fit Pixels, Get Labels ([MICCAI 2025](https://kushalvyas.github.io/metaseg.html))
 
