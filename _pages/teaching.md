@@ -11,7 +11,7 @@ nav_order: 6
 
 **Spring**
 
-Covers fundamental to advanced concepts in computer vision, from signal processing and feature extraction to scene understanding with neural networks and foundation models.
+Covers a full range of topics in computer vision, from classical signal processing and camera fundamentals to deep learning-based recognition, image generation, and modern foundation models.
 
 ---
 
@@ -19,4 +19,4 @@ Covers fundamental to advanced concepts in computer vision, from signal processi
 
 **Fall**
 
-Graduate seminar on state-of-the-art research in image synthesis using neural networks, organized around key publications in the field.
+Graduate seminar-style course on state-of-the-art image generation algorithms, organized around key publications in the field.
