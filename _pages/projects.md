@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-The following are the major research themes in my group.
+Major research themes:
 
 ---
 
@@ -37,7 +37,7 @@ Reconstructing and synthesizing 3D scenes and objects from images and video — 
 
 ### <i class="fa-solid fa-scale-balanced" style="color: #4EAA7A;"></i> Bias and Reliability in Vision
 
-Causal benchmarks, dataset bias analysis, and conformal prediction methods for reliable visual recognition and medical AI.
+Causal benchmarks, dataset bias analysis, and conformal prediction methods for vision and medical AI.
 
 **Selected papers:** Causal Benchmarking ([ECCV 2020](https://arxiv.org/abs/2007.06570)), Leveling Down ([CVPR 2022](https://arxiv.org/abs/2203.04913)), Bias Benchmarking ([ICCV 2023](https://hliang2.github.io/BenchmarkingReco/)), GELDA ([CVPR 2024](https://krishk97.github.io/publication/gelda)), COMPASS ([ICLR 2026](https://openreview.net/forum?id=uBy4TCgGiT)), Not All Views Equal ([ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/html/Michalkiewicz_Not_all_Views_are_Created_Equal_Analyzing_Viewpoint_Instabilities_in_ICCV_2025_paper.html)), GIQ ([ICLR 2026](https://toomanymatts.github.io/giq-benchmark/))
 
