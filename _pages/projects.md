@@ -13,7 +13,7 @@ Major research themes:
 
 ### <i class="fa-solid fa-wave-square" style="color: #4A90D9;"></i> Neural Signal Representations
 
-Designing and learning neural representations for signals and images, with a focus on accuracy, efficiency, and transferability.
+Implicit neural representations for complex signals and images, with a focus on scalability and transferability.
 
 **Selected papers:** WIRE ([CVPR 2023](https://vishwa91.github.io/wire)), MINER ([ECCV 2022](https://vishwa91.github.io/miner)), Transferable INRs ([NeurIPS 2024](https://kushalvyas.github.io/strainer.html)), Bias for Action ([CVPR 2025](https://alpoler.github.io/actioner)), Noise Pretraining ([CVPR 2026](https://kushalvyas.github.io/noisepretraining.html)), Fit Pixels, Get Labels ([MICCAI 2025](https://kushalvyas.github.io/metaseg.html))
 
@@ -29,7 +29,7 @@ AI models for clinical image analysis, e.g., registration, segmentation, sparse-
 
 ### <i class="fa-solid fa-cube" style="color: #9B6EC8;"></i> 3D Reconstruction and Scene Synthesis
 
-Reconstructing and synthesizing 3D scenes and objects from images and video, e.g., human avatars, relightable objects, and large urban environments.
+Reconstruction and synthesis of 3D scenes and objects from images and video, e.g., human avatars, relightable objects, and large urban environments.
 
 **Selected papers:** DRAGON ([ICCP 2024](https://yujinh22.github.io/publication/dragon)), TranSplat ([2025](https://tonyyu0822.github.io/transplat/)), SplatShot ([2026](https://arxiv.org/abs/2606.01493)), Humanless Walkthroughs ([CVPR 2026](https://crowd-eraser.github.io)), GIQ ([ICLR 2026](https://toomanymatts.github.io/giq-benchmark/))
 
