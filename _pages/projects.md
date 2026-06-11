@@ -13,7 +13,7 @@ Major research themes:
 
 ### <i class="fa-solid fa-wave-square" style="color: #4A90D9;"></i> Neural Signal Representations
 
-Implicit neural representations for complex signals and images, with a focus on scalability and transferability.
+Neural representations for complex signals and images, with a focus on implicit/coordinate-based methods, scalability, and transferability.
 
 **Selected papers:** WIRE ([CVPR 2023](https://vishwa91.github.io/wire)), MINER ([ECCV 2022](https://vishwa91.github.io/miner)), Transferable INRs ([NeurIPS 2024](https://kushalvyas.github.io/strainer.html)), Bias for Action ([CVPR 2025](https://alpoler.github.io/actioner)), Noise Pretraining ([CVPR 2026](https://kushalvyas.github.io/noisepretraining.html)), Fit Pixels, Get Labels ([MICCAI 2025](https://kushalvyas.github.io/metaseg.html))
 
@@ -39,7 +39,7 @@ Reconstruction and synthesis of 3D scenes and objects from images and video, e.g
 
 Causal benchmarks, dataset bias analysis, and conformal prediction methods for AI systems.
 
-**Selected papers:** Causal Benchmarking ([ECCV 2020](https://arxiv.org/abs/2007.06570)), Leveling Down ([CVPR 2022](https://arxiv.org/abs/2203.04913)), Bias Benchmarking ([ICCV 2023](https://hliang2.github.io/BenchmarkingReco/)), GELDA ([CVPR 2024](https://krishk97.github.io/publication/gelda)), COMPASS ([ICLR 2026](https://openreview.net/forum?id=uBy4TCgGiT)), Not All Views Equal ([ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/html/Michalkiewicz_Not_all_Views_are_Created_Equal_Analyzing_Viewpoint_Instabilities_in_ICCV_2025_paper.html)), GIQ ([ICLR 2026](https://toomanymatts.github.io/giq-benchmark/))
+**Selected papers:** Causal Benchmarking of Face Analysis ([ECCV 2020](https://arxiv.org/abs/2007.06570), [ICCV 2023](https://hliang2.github.io/BenchmarkingReco/)), GELDA ([CVPR 2024](https://krishk97.github.io/publication/gelda)), COMPASS ([ICLR 2026](https://openreview.net/forum?id=uBy4TCgGiT)), Not All Views Equal ([ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/html/Michalkiewicz_Not_all_Views_are_Created_Equal_Analyzing_Viewpoint_Instabilities_in_ICCV_2025_paper.html)), GIQ ([ICLR 2026](https://toomanymatts.github.io/giq-benchmark/))
 
 ---
 
