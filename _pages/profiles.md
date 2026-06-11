@@ -7,7 +7,9 @@ nav: true
 nav_order: 7
 ---
 
-## PhD Students
+## Current
+
+### PhD
 
 - **[Hao Liang](https://hliang2.github.io/)**
 - **[Krish Kabra](https://krishk97.github.io/)**
@@ -18,13 +20,30 @@ nav_order: 7
 - **[Sophia Zorek](https://profiles.rice.edu/student/sophia-zorek)**
 - **[Matt Cheung](https://matthewyccheung.github.io/)**
 
-## Postdoctoral Researchers
+### Postdoc
 
 - **[Mat Michalkiewicz](https://toomanymatts.github.io/)**
+- **[Bahram Yaghooti](https://byaghooti.github.io/)**
+
+### Masters
+
+- **Vishal Venkat**
+- **Yining Hong**
+
+### Undergrad
+
+- **Daniel Kim**
+- **Joanna Li**
+
+---
 
 ## Alumni
 
-### Undergraduate Researchers
+### Masters
+
+- **Alan Huang** &rarr; Forterra
+
+### Undergrad
 
 - **[Caleb McKinney](https://calebmckinney.com/)** &rarr; Georgia Tech (PhD)
 - **[Kevin Ni](https://scholar.google.com/citations?user=b3v0hiQAAAAJ)** &rarr; UNC (PhD)

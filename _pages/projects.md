@@ -13,22 +13,22 @@ Current research themes of my group:
 
 ### <i class="fa-solid fa-wave-square" style="color: #4A90D9;"></i> Neural Signal Representations
 
-Scalable and transferable neural representations for complex signals and images, with a focus on implicit/coordinate-based (INR) methods, applied to medical, geospatial, and video domains.
+Scalable and transferable neural representations for complex signals and images, with a focus on implicit/coordinate-based (INR) methods, applied to natural, medical, and scientific domains.
 
 **Selected papers:** WIRE ([CVPR 2023](https://vishwa91.github.io/wire)), MINER ([ECCV 2022](https://vishwa91.github.io/miner)), Transferable INRs ([NeurIPS 2024](https://kushalvyas.github.io/strainer.html)), Video INRs ([CVPR 2025](https://alpoler.github.io/actioner)), Noise Pretrained INRs ([CVPR 2026](https://kushalvyas.github.io/noisepretraining.html)), Fit Pixels, Get Labels ([MICCAI 2025](https://kushalvyas.github.io/metaseg.html)), ISLAND ([Remote Sensing Applications 2024](https://github.com/way-yuhao/island)), GeoViSTA ([2026](https://arxiv.org/abs/2605.14406))
 
 ---
 
-### <i class="fa-solid fa-scale-balanced" style="color: #4EAA7A;"></i> Bias and Reliability of AI Systems
+### <i class="fa-solid fa-scale-balanced" style="color: #4EAA7A;"></i> Trustworthy AI
 
-Diagnosing and correcting bias in AI systems through causal analysis, robustness probing, and conformal uncertainty quantification.
+Probing AI systems for bias, robustness, and reliability through network geometry analysis, causal benchmarking, and conformal uncertainty quantification.
 
-**Selected papers:** Causal Benchmarking of Face Analysis ([ECCV 2020](https://arxiv.org/abs/2007.06570), [ICCV 2023](https://hliang2.github.io/BenchmarkingReco/)), GELDA ([CVPR 2024](https://krishk97.github.io/publication/gelda)), Precipitation Downscaling ([TGRS 2025](https://doi.org/10.1109/TGRS.2025.3611872)), COMPASS ([ICLR 2026](https://openreview.net/forum?id=uBy4TCgGiT)), Not All Views Equal ([ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/html/Michalkiewicz_Not_all_Views_are_Created_Equal_Analyzing_Viewpoint_Instabilities_in_ICCV_2025_paper.html)), GIQ ([ICLR 2026](https://toomanymatts.github.io/giq-benchmark/))
+**Selected papers:** SplineCam ([CVPR 2023](https://imtiazhumayun.github.io/splinecam/)), Causal Benchmarking of Face Analysis ([ECCV 2020](https://arxiv.org/abs/2007.06570), [ICCV 2023](https://hliang2.github.io/BenchmarkingReco/)), GELDA ([CVPR 2024](https://krishk97.github.io/publication/gelda)), Precipitation Downscaling ([TGRS 2025](https://doi.org/10.1109/TGRS.2025.3611872)), Conformal UQ ([ICLR 2026](https://openreview.net/forum?id=uBy4TCgGiT), [MICCAIW 2025](https://arxiv.org/abs/2404.15274)), Not All Views Equal ([ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/html/Michalkiewicz_Not_all_Views_are_Created_Equal_Analyzing_Viewpoint_Instabilities_in_ICCV_2025_paper.html)), GIQ ([ICLR 2026](https://toomanymatts.github.io/giq-benchmark/))
 
 ---
 
 ### <i class="fa-solid fa-cube" style="color: #9B6EC8;"></i> Scene Reconstruction
 
-Reconstructing and synthesizing 3D scenes, objects, and volumes from images and video, including human avatars, urban environments, and sparse-view medical imaging.
+3D reconstruction and novel-view synthesis of scenes, objects, and volumes from images and video, including human avatars, urban environments, and sparse-view medical imaging.
 
 **Selected papers:** CT Reconstruction ([MICCAI 2023](https://arxiv.org/abs/2308.02100)), DRAGON ([ICCP 2024](https://yujinh22.github.io/publication/dragon)), TranSplat ([2025](https://tonyyu0822.github.io/transplat/)), SplatShot ([2026](https://arxiv.org/abs/2606.01493)), Humanless Walkthroughs ([CVPR 2026](https://crowd-eraser.github.io)), GIQ ([ICLR 2026](https://toomanymatts.github.io/giq-benchmark/))
