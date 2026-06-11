@@ -19,6 +19,7 @@ nav_order: 7
 - **[Tony Yu](https://tonyyu0822.github.io/)**
 - **[Sophia Zorek](https://profiles.rice.edu/student/sophia-zorek)**
 - **[Matt Cheung](https://matthewyccheung.github.io/)**
+- **[Vishesh Kumar](https://visheshrajput2408.github.io/vishesh.github.io/)** (visitor, Mehta Rice Engineering Scholars Program)
 
 ### Postdoc
 
