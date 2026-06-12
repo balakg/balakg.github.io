@@ -9,7 +9,7 @@ nav_order: 2
 
 <div style="text-align: center; margin: 1.5em 0;">
   <img src="/assets/img/wordcloud.png" alt="Research word cloud" style="max-width: 100%; border-radius: 8px;">
-  <div style="font-size: 0.85em; color: #888; margin-top: 0.5em;">Word cloud of all my publication titles.</div>
+  <div style="font-size: 0.85em; color: #888; margin-top: 0.5em;">Word cloud using all my publication titles. Larger/darker words appear more frequently.</div>
 </div>
 
 ---
