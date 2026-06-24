@@ -24,7 +24,6 @@ nav_order: 7
 ### Postdoc
 
 - **[Mat Michalkiewicz](https://toomanymatts.github.io/)**
-- **[Bahram Yaghooti](https://byaghooti.github.io/)**
 
 ### Masters
 
