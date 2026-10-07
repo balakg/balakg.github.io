@@ -61,8 +61,22 @@ if (/gem 'al_math',\s*:git =>/.test(gemfile)) {
   failures.push("`Gemfile` must not use git-branch pin for `al_math`; use released gem version.");
 }
 
+// Read tracked local overrides so legitimately shadowed gem files are exempted.
+const trackedOverrides = new Set();
+if (exists(".al-folio-overrides.yml")) {
+  const overridesYml = read(".al-folio-overrides.yml");
+  // Keys under `overrides:` are indented paths like `  _layouts/bib.liquid:`
+  for (const match of overridesYml.matchAll(/^\s{2}([^\s#][^:]+):\s*$/gm)) {
+    trackedOverrides.add(match[1].trim());
+  }
+}
+
 for (const forbiddenPath of ["_includes", "_layouts", "_sass", "_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
-  if (exists(forbiddenPath)) {
+  if (!exists(forbiddenPath)) continue;
+  // Allow the directory if every file inside it is a tracked override.
+  const dirFiles = fs.readdirSync(path.join(root, forbiddenPath)).map((f) => `${forbiddenPath}/${f}`);
+  const untracked = dirFiles.filter((f) => !trackedOverrides.has(f));
+  if (untracked.length > 0) {
     failures.push(`Starter must not own core component path \`${forbiddenPath}\`; move ownership to the corresponding gem.`);
   }
 }
