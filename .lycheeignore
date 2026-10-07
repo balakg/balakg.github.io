@@ -1,4 +1,4 @@
-*.webp
+.*\.webp
 .github/instructions/bibtex-bibliography.instructions.md
 .github/instructions/liquid-templates.instructions.md
 .github/instructions/markdown-content.instructions.md
