@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-
 ### <i class="fa-solid fa-wave-square" style="color: #4A90D9;"></i> Neural Signal Representations
 
 Scalable and transferable neural signal representations for natural, medical, and scientific imaging domains, with a heavy focus on implicit/coordinate-based networks (INRs).
