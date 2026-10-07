@@ -28,4 +28,4 @@ Probing AI systems for bias, robustness, and reliability through causal benchmar
 
 3D reconstruction and novel-view synthesis of scenes from images and video, including human avatars, urban environments, and medical scans.
 
-**Selected papers:** CT Reconstruction ([MICCAI 2023](https://arxiv.org/abs/2308.02100)), Drone-and-Ground Splatting ([ICCP 2024](https://yujinh22.github.io/publications/dragon/)), TranSplat ([2025](https://tonyyu0822.github.io/transplat/)), Face Avatars ([2026](https://arxiv.org/abs/2606.01493), [2025](https://hliang2.github.io/FastAvatar/)), Humanless Walkthroughs ([CVPR 2026](https://crowd-eraser.github.io))
+**Selected papers:** CT Reconstruction ([MICCAI 2023](https://arxiv.org/abs/2308.02100)), Drone-and-Ground Splatting ([ICCP 2024](https://yujinh22.github.io/publications/dragon/)), TranSplat ([2025](https://tonyyu0822.github.io/transplat/)), Face Avatars ([2026](https://hliang2.github.io/SplatShot), [2025](https://hliang2.github.io/FastAvatar/)), Humanless Walkthroughs ([CVPR 2026](https://crowd-eraser.github.io))
