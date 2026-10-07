@@ -7,6 +7,10 @@ nav: true
 nav_order: 7
 ---
 
+<div style="text-align: center; margin: 1.5em 0 2em;">
+  <img src="/assets/img/group_photo.jpg" alt="Group photo" style="max-width: 100%; border-radius: 8px;">
+</div>
+
 ## Current
 
 ### PhD
