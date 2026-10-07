@@ -7,12 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<div style="text-align: center; margin: 1.5em 0;">
-  <img src="/assets/img/wordcloud.png" alt="Research word cloud" style="max-width: 100%; border-radius: 8px;">
-  <div style="font-size: 0.85em; color: #888; margin-top: 0.5em;">Word cloud using all my publication titles. Larger/darker words appear more frequently.</div>
-</div>
-
----
 
 ### <i class="fa-solid fa-wave-square" style="color: #4A90D9;"></i> Neural Signal Representations
 
@@ -32,6 +26,6 @@ Probing AI systems for bias, robustness, and reliability through causal benchmar
 
 ### <i class="fa-solid fa-cube" style="color: #9B6EC8;"></i> Scene Reconstruction
 
-3D reconstruction and novel-view synthesis of scenes, objects, and volumes from images and video, including human avatars, urban environments, and sparse-view medical imaging.
+3D reconstruction and novel-view synthesis of scenes from images and video, including human avatars, urban environments, and medical scans.
 
 **Selected papers:** CT Reconstruction ([MICCAI 2023](https://arxiv.org/abs/2308.02100)), Drone-and-Ground Splatting ([ICCP 2024](https://yujinh22.github.io/publications/dragon/)), TranSplat ([2025](https://tonyyu0822.github.io/transplat/)), Face Avatars ([2026](https://arxiv.org/abs/2606.01493), [2025](https://hliang2.github.io/FastAvatar/)), Humanless Walkthroughs ([CVPR 2026](https://crowd-eraser.github.io))
