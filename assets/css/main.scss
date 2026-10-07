@@ -32,6 +32,112 @@
 @use "teachings";
 @use "typograms";
 
+// Research panels
+.research-panels {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+@media (max-width: 768px) {
+  .research-panels {
+    grid-template-columns: 1fr;
+  }
+}
+
+details.research-panel {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--global-bg-color);
+  transition: box-shadow 0.2s;
+}
+
+details.research-panel:hover {
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.09);
+}
+
+details.research-panel > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 1.35rem 1.25rem 1.2rem 1.4rem;
+  border-left: 4px solid var(--panel-accent, var(--global-theme-color));
+  user-select: none;
+}
+
+details.research-panel > summary::-webkit-details-marker {
+  display: none;
+}
+
+.panel-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.45rem;
+}
+
+.panel-label {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--panel-accent, var(--global-theme-color));
+}
+
+details.research-panel:not([open]) .panel-expand::after {
+  content: "more ▾";
+  font-size: 0.75rem;
+  color: var(--global-text-color-light);
+}
+
+details.research-panel[open] .panel-expand::after {
+  content: "less ▴";
+  font-size: 0.75rem;
+  color: var(--global-text-color-light);
+}
+
+.panel-teaser {
+  margin: 0;
+  font-size: 0.875rem;
+  color: var(--global-text-color-light);
+  line-height: 1.55;
+}
+
+.panel-body {
+  padding: 1.2rem 1.25rem 1.3rem 1.4rem;
+  border-top: 1px solid var(--global-divider-color);
+  border-left: 4px solid var(--panel-accent, var(--global-theme-color));
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+.panel-body p:first-child { margin-top: 0; }
+.panel-body ul:last-child,
+.panel-body p:last-child { margin-bottom: 0; }
+
+.panel-papers {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.panel-papers-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  margin-bottom: 0.5rem;
+}
+
+.panel-papers ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.panel-papers li {
+  margin-bottom: 0.25rem;
+  font-size: 0.85rem;
+}
+
 // Custom overrides
 .award,
 .award.btn {
