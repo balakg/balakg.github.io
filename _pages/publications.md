@@ -15,6 +15,6 @@ Please visit my [Google Scholar page](https://scholar.google.com/citations?user=
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[hidden!=true] %}
 
 </div>
