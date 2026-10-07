@@ -23,7 +23,6 @@ nav_order: 7
 - **[Tony Yu](https://tonyyu0822.github.io/)**
 - **[Sophia Zorek](https://profiles.rice.edu/student/sophia-zorek)**
 - **[Matt Cheung](https://matthewyccheung.github.io/)** (co-advised with [Ashok Veeraraghavan](https://computationalimaging.rice.edu/team/ashok-veeraraghavan/))
-- **[Vishesh Kumar](https://visheshrajput2408.github.io/vishesh.github.io/)** (visitor, [Mehta Rice Engineering Scholars Program](https://engineering.rice.edu/academics/mehta-rice-engineering-scholars-program))
 
 ### Postdoc
 
@@ -32,7 +31,6 @@ nav_order: 7
 ### Masters
 
 - **Vishal Venkat**
-- **Yining Hong**
 
 ### Undergrad
 
