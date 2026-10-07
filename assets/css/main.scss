@@ -34,16 +34,10 @@
 
 // Research panels
 .research-panels {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  display: flex;
+  flex-direction: column;
   gap: 1.5rem;
   margin: 2rem 0;
-}
-
-@media (max-width: 768px) {
-  .research-panels {
-    grid-template-columns: 1fr;
-  }
 }
 
 details.research-panel {
