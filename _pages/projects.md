@@ -21,13 +21,13 @@ nav_order: 2
     <div class="panel-papers">
       <div class="panel-papers-label">Selected papers</div>
       <ul>
-        <li><a href="https://arxiv.org/abs/1809.05231">VoxelMorph</a> &mdash; <em>TMI 2019</em></li>
-        <li><a href="https://kushalvyas.github.io/metaseg.html">Fit Pixels, Get Labels</a> &mdash; <em>MICCAI 2025</em></li>
+        <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841526003853">FPGL</a> &mdash; <em>MedIA 2027</em></li>
         <li><a href="https://openreview.net/forum?id=uBy4TCgGiT">COMPASS</a> &mdash; <em>ICLR 2026</em></li>
         <li><a href="https://papers.miccai.org/miccai-2026/0339-Paper2641.html">Efficient Conformal Volumetry</a> &mdash; <em>MICCAI 2026</em></li>
         <li><a href="https://papers.miccai.org/miccai-2026/0834-Paper4314.html">Proxy-CAC</a> &mdash; <em>MICCAI 2026</em></li>
         <li><a href="https://papers.miccai.org/miccai-2026/0333-Paper4373.html">Echo-SCAR</a> &mdash; <em>MICCAI 2026</em></li>
-        <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841526003853">FPGL</a> &mdash; <em>MedIA 2027</em></li>
+        <li><a href="https://kushalvyas.github.io/metaseg.html">Fit Pixels, Get Labels</a> &mdash; <em>MICCAI 2025</em></li>
+        <li><a href="https://arxiv.org/abs/1809.05231">VoxelMorph</a> &mdash; <em>TMI 2019</em></li>
       </ul>
     </div>
   </div>
@@ -45,14 +45,14 @@ nav_order: 2
     <div class="panel-papers">
       <div class="panel-papers-label">Selected papers</div>
       <ul>
-        <li><a href="https://vishwa91.github.io/wire">WIRE</a> &mdash; <em>CVPR 2023</em></li>
-        <li><a href="https://vishwa91.github.io/miner">MINER</a> &mdash; <em>ECCV 2022</em></li>
-        <li><a href="https://kushalvyas.github.io/strainer.html">Transferable INRs</a> &mdash; <em>NeurIPS 2024</em></li>
-        <li><a href="https://kushalvyas.github.io/noisepretraining.html">Noise Pretrained INRs</a> &mdash; <em>CVPR 2026</em></li>
-        <li><a href="https://kushalvyas.github.io/metaseg.html">Fit Pixels, Get Labels</a> &mdash; <em>MICCAI 2025</em></li>
         <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841526003853">FPGL</a> &mdash; <em>MedIA 2027</em></li>
+        <li><a href="https://kushalvyas.github.io/noisepretraining.html">Noise Pretrained INRs</a> &mdash; <em>CVPR 2026</em></li>
         <li><a href="https://hliang2.github.io/FastAvatar/">FastAvatar</a> &mdash; <em>TMLR 2026</em></li>
         <li><a href="https://tonyyu0822.github.io/transplat/">TranSplat</a> &mdash; <em>ICCP 2026</em></li>
+        <li><a href="https://kushalvyas.github.io/metaseg.html">Fit Pixels, Get Labels</a> &mdash; <em>MICCAI 2025</em></li>
+        <li><a href="https://kushalvyas.github.io/strainer.html">Transferable INRs</a> &mdash; <em>NeurIPS 2024</em></li>
+        <li><a href="https://vishwa91.github.io/wire">WIRE</a> &mdash; <em>CVPR 2023</em></li>
+        <li><a href="https://vishwa91.github.io/miner">MINER</a> &mdash; <em>ECCV 2022</em></li>
       </ul>
     </div>
   </div>
@@ -70,9 +70,9 @@ nav_order: 2
     <div class="panel-papers">
       <div class="panel-papers-label">Selected papers</div>
       <ul>
-        <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S2352938524001964">ISLAND</a> &mdash; <em>Remote Sensing Applications 2024</em></li>
         <li><a href="https://ieeexplore.ieee.org/document/11172297">Precipitation Downscaling</a> &mdash; <em>TGRS 2025</em></li>
         <li><a href="https://www.sciencedirect.com/science/article/pii/S1093968726012879">Debris Segmentation</a> &mdash; <em>CAICE 2025</em></li>
+        <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S2352938524001964">ISLAND</a> &mdash; <em>Remote Sensing Applications 2024</em></li>
       </ul>
     </div>
   </div>
