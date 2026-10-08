@@ -9,30 +9,6 @@ nav_order: 2
 
 <div class="research-panels">
 
-<details class="research-panel" style="--panel-accent: #C0504D;">
-  <summary>
-    <div class="panel-meta">
-      <span class="panel-label"><i class="fa-solid fa-heart-pulse"></i>&nbsp; Medical Imaging</span>
-      <span class="panel-expand"></span>
-    </div>
-    <p class="panel-teaser">AI algorithms for medical image analysis, including registration (VoxelMorph), segmentation, and uncertainty quantification.</p>
-  </summary>
-  <div class="panel-body">
-    <div class="panel-papers">
-      <div class="panel-papers-label">Selected papers</div>
-      <ul>
-        <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841526003853">FPGL</a> &mdash; <em>MedIA 2027</em></li>
-        <li><a href="https://openreview.net/forum?id=uBy4TCgGiT">COMPASS</a> &mdash; <em>ICLR 2026</em></li>
-        <li><a href="https://papers.miccai.org/miccai-2026/0339-Paper2641.html">Efficient Conformal Volumetry</a> &mdash; <em>MICCAI 2026</em></li>
-        <li><a href="https://papers.miccai.org/miccai-2026/0834-Paper4314.html">Proxy-CAC</a> &mdash; <em>MICCAI 2026</em></li>
-        <li><a href="https://papers.miccai.org/miccai-2026/0333-Paper4373.html">Echo-SCAR</a> &mdash; <em>MICCAI 2026</em></li>
-        <li><a href="https://kushalvyas.github.io/metaseg.html">Fit Pixels, Get Labels</a> &mdash; <em>MICCAI 2025</em></li>
-        <li><a href="https://arxiv.org/abs/1809.05231">VoxelMorph</a> &mdash; <em>TMI 2019</em></li>
-      </ul>
-    </div>
-  </div>
-</details>
-
 <details class="research-panel" style="--panel-accent: #4A90D9;">
   <summary>
     <div class="panel-meta">
@@ -53,6 +29,30 @@ nav_order: 2
         <li><a href="https://kushalvyas.github.io/strainer.html">Transferable INRs</a> &mdash; <em>NeurIPS 2024</em></li>
         <li><a href="https://vishwa91.github.io/wire">WIRE</a> &mdash; <em>CVPR 2023</em></li>
         <li><a href="https://vishwa91.github.io/miner">MINER</a> &mdash; <em>ECCV 2022</em></li>
+      </ul>
+    </div>
+  </div>
+</details>
+
+<details class="research-panel" style="--panel-accent: #C0504D;">
+  <summary>
+    <div class="panel-meta">
+      <span class="panel-label"><i class="fa-solid fa-heart-pulse"></i>&nbsp; Medical Imaging</span>
+      <span class="panel-expand"></span>
+    </div>
+    <p class="panel-teaser">AI algorithms for medical image analysis, including registration (VoxelMorph), segmentation, and uncertainty quantification.</p>
+  </summary>
+  <div class="panel-body">
+    <div class="panel-papers">
+      <div class="panel-papers-label">Selected papers</div>
+      <ul>
+        <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841526003853">FPGL</a> &mdash; <em>MedIA 2027</em></li>
+        <li><a href="https://openreview.net/forum?id=uBy4TCgGiT">COMPASS</a> &mdash; <em>ICLR 2026</em></li>
+        <li><a href="https://papers.miccai.org/miccai-2026/0339-Paper2641.html">Efficient Conformal Volumetry</a> &mdash; <em>MICCAI 2026</em></li>
+        <li><a href="https://papers.miccai.org/miccai-2026/0834-Paper4314.html">Proxy-CAC</a> &mdash; <em>MICCAI 2026</em></li>
+        <li><a href="https://papers.miccai.org/miccai-2026/0333-Paper4373.html">Echo-SCAR</a> &mdash; <em>MICCAI 2026</em></li>
+        <li><a href="https://kushalvyas.github.io/metaseg.html">Fit Pixels, Get Labels</a> &mdash; <em>MICCAI 2025</em></li>
+        <li><a href="https://arxiv.org/abs/1809.05231">VoxelMorph</a> &mdash; <em>TMI 2019</em></li>
       </ul>
     </div>
   </div>
