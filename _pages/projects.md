@@ -15,7 +15,7 @@ nav_order: 2
       <span class="panel-label"><i class="fa-solid fa-wave-square"></i>&nbsp; Neural Signal/Scene Representations</span>
       <span class="panel-expand"></span>
     </div>
-    <p class="panel-teaser">Scalable neural representations for natural signals, scientific data, and 3D scenes.</p>
+    <p class="panel-teaser">Novel neural representations for diverse signals and scenes.</p>
   </summary>
   <div class="panel-body">
     <div class="panel-papers">
