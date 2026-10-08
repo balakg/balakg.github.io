@@ -22,6 +22,6 @@ latest_posts:
   enabled: false
 ---
 
-My group works on three main research themes in computer vision: **neural signal representations**, **trustworthy AI**, and **scene reconstruction**, with applications in medical imaging, environmental science, and beyond.
+My group works on **neural signal/scene representations** and **trustworthy AI**, particularly for scientific application domains such as medical imaging and the geosciences.
 
 I completed my PhD at [MIT CSAIL](https://www.csail.mit.edu/) advised by [John Guttag](http://people.csail.mit.edu/guttag/) and [Frédo Durand](http://people.csail.mit.edu/fredo/), followed by postdoctoral research with [Bill Freeman](https://billf.mit.edu/). I received dual B.S. degrees in Computer Science and Computer Engineering from the [University of Michigan](https://umich.edu/).
