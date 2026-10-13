@@ -17,7 +17,7 @@ nav_order: 3
       <span class="panel-label"><i class="fa-solid fa-wave-square"></i>&nbsp; Neural Signal & Scene Representations</span>
       <span class="panel-expand"></span>
     </div>
-    <p class="panel-teaser">Coordinate networks, Gaussian splatting, and related methods for signals and scenes.</p>
+    <p class="panel-teaser">Scalable neural representations for natural and scientific signals and scenes, with emphasis on coordinate networks.</p>
   </summary>
   <div class="panel-body">
     <div class="panel-papers">
