@@ -86,7 +86,7 @@ nav_order: 3
       <span class="panel-label"><i class="fa-solid fa-scale-balanced"></i>&nbsp; Trustworthy AI</span>
       <span class="panel-expand"></span>
     </div>
-    <p class="panel-teaser">Probing AI systems for reliability and bias through uncertainty quantification, causal benchmarking, and functional analysis.</p>
+    <p class="panel-teaser">Reliability and bias analysis of AI systems, through conformal prediction, causal benchmarking, and functional probing.</p>
   </summary>
   <div class="panel-body">
     <div class="panel-papers">
