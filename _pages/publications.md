@@ -14,10 +14,10 @@ nav_order: 3
 <details class="research-panel" style="--panel-accent: #4A90D9;">
   <summary>
     <div class="panel-meta">
-      <span class="panel-label"><i class="fa-solid fa-wave-square"></i>&nbsp; Neural Signal/Scene Representations</span>
+      <span class="panel-label"><i class="fa-solid fa-wave-square"></i>&nbsp; Neural Signal & Scene Representations</span>
       <span class="panel-expand"></span>
     </div>
-    <p class="panel-teaser">Novel neural representations for diverse signals and scenes.</p>
+    <p class="panel-teaser">Coordinate networks, Gaussian splatting, and related methods for signals and scenes.</p>
   </summary>
   <div class="panel-body">
     <div class="panel-papers">
@@ -66,7 +66,7 @@ nav_order: 3
       <span class="panel-label"><i class="fa-solid fa-earth-americas"></i>&nbsp; Geospatial AI</span>
       <span class="panel-expand"></span>
     </div>
-    <p class="panel-teaser">AI algorithms for remote sensing and climate/environment modeling.</p>
+    <p class="panel-teaser">AI for geospatial sensing, with a focus on multi-modal data fusion.</p>
   </summary>
   <div class="panel-body">
     <div class="panel-papers">
