@@ -22,6 +22,6 @@ latest_posts:
   enabled: false
 ---
 
-My group works on computer vision, with focus areas in neural signal & scene representations, medical imaging, and geospatial sensing.
+My research group advances computer vision, with core focus areas in neural signal and scene representations, medical imaging, and geospatial sensing. At Rice University, I am also an active member of the [Digital Health Initiative](https://dhi.rice.edu/) and the [Houston Methodist–Rice Digital Health Institute](https://www.hmrdhi.org/).
 
-I completed my PhD at [MIT CSAIL](https://www.csail.mit.edu/) advised by [John Guttag](http://people.csail.mit.edu/guttag/) and [Frédo Durand](http://people.csail.mit.edu/fredo/), followed by postdoctoral research with [Bill Freeman](https://billf.mit.edu/). I received dual B.S. degrees in Computer Science and Computer Engineering from the [University of Michigan](https://umich.edu/).
+Prior to my current role, I completed my PhD at [MIT CSAIL](https://www.csail.mit.edu/) under the supervision of [John Guttag](http://people.csail.mit.edu/guttag/) and [Frédo Durand](http://people.csail.mit.edu/fredo/), followed by postdoctoral research with [Bill Freeman](https://billf.mit.edu/). I hold dual B.S. degrees in Computer Science and Computer Engineering from the [University of Michigan](https://umich.edu/).
