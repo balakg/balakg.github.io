@@ -133,6 +133,12 @@ details.research-panel[open] .panel-expand::after {
   font-size: 0.85rem;
 }
 
+// Year headings in bibliography
+h2.bibliography {
+  color: var(--global-text-color);
+  font-weight: 600;
+}
+
 // Custom overrides
 .award,
 .award.btn {
